@@ -1,4 +1,4 @@
-# Programación 2 - [ Programacion 2 / Pietrobon.C]
+# Programación 2 - [Programacion 2 / Pietrobon.C]
 
 Este repositorio contiene los proyectos y ejercicios realizados durante el curso de Programación 2.
 
