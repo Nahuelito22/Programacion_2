@@ -18,14 +18,8 @@ El repositorio se organiza de la siguiente manera:
 * [Breve descripción del Proyecto 1]
 * [Instrucciones de ejecución]
 * [Tecnologías utilizadas]
-  
-* **Proyecto 2: [Nombre del Proyecto 2]**
-* [Breve descripción del Proyecto 2]
-* [Instrucciones de ejecución]
-* [Tecnologías utilizadas]
-* **Ejercicios:**
-* [Descripción de los ejercicios realizados]
 
+  
 ## Instrucciones de uso
 
 Para ejecutar los proyectos, sigue estos pasos:
