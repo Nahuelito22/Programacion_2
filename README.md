@@ -1,84 +1,28 @@
-# Programación 2 - [Programación 2 / Pietrobon.C]
+# 📘 Programación 2 - Portafolio de Proyectos
 
-Este repositorio contiene los proyectos y ejercicios realizados durante el curso de Programación 2, dictado por el profesor Pietrobon.C.
+Este repositorio reúne los proyectos desarrollados durante el curso **Programación 2**, dictado por el profesor Pietrobon.C.
 
-## 📚 Descripción
+## ✅ Proyectos
 
-A lo largo del curso se trabajaron los siguientes temas principales:
+- 🔧 [Taller Mecánico](https://github.com/Nahuelito22/Programacion_2-Taller_Mecanico)  
+  API RESTful para gestionar un taller de vehículos, usando Flask y MySQL.
 
-- Programación Orientada a Objetos (POO)
-- Desarrollo de aplicaciones utilizando el patrón Modelo-Vista-Controlador (MVC)
-- Manejo de bases de datos con SQL
-- Creación de APIs RESTful
-- Uso de Git y GitHub para control de versiones y trabajo colaborativo
-- Lenguajes utilizados: **Python**, **SQL** y **JavaScript**
+(En el futuro podés agregar más proyectos si el curso continúa, por ejemplo 👇)
 
-## 🗂️ Contenido del repositorio
+- 📁 [Gestor de Alumnos (POO + Archivos)](link-al-repo)
+- 📈 [Análisis de rendimiento académico (con SQL)](link-al-repo)
 
-### Proyecto 1: Taller Mecánico
+## 📂 Estructura
 
-Este proyecto integra los principales conceptos del curso. Los objetivos fueron:
+Cada proyecto está alojado en su propio repositorio independiente, con su respectivo README explicando:
 
-- Implementar una API RESTful utilizando Python y Flask
-- Aplicar el patrón MVC
-- Realizar operaciones CRUD (Create, Read, Update, Delete)
-- Conectar la API con una base de datos MySQL usando Workbench
-- Versionar el proyecto con Git y publicarlo en GitHub para trabajo colaborativo
-
-#### ▶️ Instrucciones de ejecución
-
-Para ejecutar la API, necesitas tener instalado lo siguiente:
-
-- **Python**
-- **MySQL**
-- **MySQL Workbench**
-
-Pasos:
-
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/Nahuelito22/Programacion_2-Taller_Mecanico.git
-```
-
-2. Configurar la conexión a la base de datos en el archivo `.env` (ver `example.env`).
-3. Ejecutar la aplicación:
-
-```bash
-python app.py
-```
-
-#### ⚙️ Tecnologías utilizadas
-
-- **Python**
-  - Flask
-  - SQLAlchemy
-  - PyMySQL
-  - python-dotenv
-- **MySQL**
-- **Workbench**
-- **Git y GitHub**
-
-## 📦 Instrucciones generales de uso
-
-1. Cloná el repositorio:  
-   `git clone https://github.com/Nahuelito22/Programacion_2-Taller_Mecanico.git`
-
-2. Navegá hasta el directorio del proyecto:  
-   `cd Programacion_2-Taller_Mecanico`
-
-3. Seguí las instrucciones específicas de cada carpeta o proyecto dentro del repositorio.
+- Objetivos
+- Tecnologías usadas
+- Cómo ejecutarlo
+- Capturas o ejemplos (si aplica)
 
 ## 👨‍💻 Autor
 
 **Nahuel Ghilardi**  
 GitHub: [@Nahuelito22](https://github.com/Nahuelito22)  
 Email: matiasghilardisalinas@gmail.com
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT.
-
-## 🤝 Agradecimientos
-
-Gracias al profesor **Pietrobon.C** y a todos mis compañeros por su apoyo y colaboración durante el desarrollo del curso.
