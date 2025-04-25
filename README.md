@@ -1,63 +1,84 @@
-# Programación 2 - [Programacion 2 / Pietrobon.C]
+# Programación 2 - [Programación 2 / Pietrobon.C]
 
-Este repositorio contiene los proyectos y ejercicios realizados durante el curso de Programación 2.
+Este repositorio contiene los proyectos y ejercicios realizados durante el curso de Programación 2, dictado por el profesor Pietrobon.C.
 
-## Descripción
+## 📚 Descripción
 
-En este curso, hemos explorado los siguientes conceptos y temas:
+A lo largo del curso se trabajaron los siguientes temas principales:
 
-* [Tema 1: Programación Orientada a Objetos]
+- Programación Orientada a Objetos (POO)
+- Desarrollo de aplicaciones utilizando el patrón Modelo-Vista-Controlador (MVC)
+- Manejo de bases de datos con SQL
+- Creación de APIs RESTful
+- Uso de Git y GitHub para control de versiones y trabajo colaborativo
+- Lenguajes utilizados: **Python**, **SQL** y **JavaScript**
 
-* [Lenguaje de Programación utilizado: Python, SQL, JavaScript]
+## 🗂️ Contenido del repositorio
 
-## Contenido
+### Proyecto 1: Taller Mecánico
 
-El repositorio se organiza de la siguiente manera:
+Este proyecto integra los principales conceptos del curso. Los objetivos fueron:
 
-* **Proyecto 1: [Taller Mecanico]**
-* [En este primer proyecto se busca poner en practica los conocimientos como Programacion Orientada a Objetos, Modelo-Vista-Controlador, CRUD(Delete, Read, Update, Delete).
-* La propuesta fue crear una pequeña API RESTfull, conectarla a nuestro entorno de trabajo Workbeanch utilizando MySQL.
-* Ademas se tenia en cuenta la utilizacion de Git y Git-Hub para crear el repositorio de forma local para luego subirlo de forma remota y trabajar en grupo de forma remota.]
-* [Instrucciones de ejecución:
-* Para poder ejecutar la api es necesario tener instalado:
-* # Python
-  # Workbeanch
-  # MySql
-  Una vez tenemos estos programas simplemente clonamos el repositorio, para poder relizar esto les dejo el comando:
-  git clone https://github.com/Nahuelito22/Programacion_2-Taller_Mecanico.git
-  Una vez clonado conectamos la bade de datos con las credenciales necesarias y luego ejecutamos app.py]
-* [Tecnologías utilizadas:
-* Para este proyecto utilizamos:
-* # Python
-* # Frameworks y librerias de python como:
-*   # MySQLAlchemy   # Flask   # PyMySql
-*   # Python.dotenv
-* # MySQL
-* # Workbeanch
-* # Git
-* # Git-Hub]
+- Implementar una API RESTful utilizando Python y Flask
+- Aplicar el patrón MVC
+- Realizar operaciones CRUD (Create, Read, Update, Delete)
+- Conectar la API con una base de datos MySQL usando Workbench
+- Versionar el proyecto con Git y publicarlo en GitHub para trabajo colaborativo
 
-  
-## Instrucciones de uso
+#### ▶️ Instrucciones de ejecución
 
-Para ejecutar los proyectos, sigue estos pasos:
+Para ejecutar la API, necesitas tener instalado lo siguiente:
 
-1. Clona el repositorio en tu máquina local: `git clone https://github.com/repo/del`
-2. Navega hasta la carpeta del proyecto que deseas ejecutar: `cd [carpeta del proyecto]`
-3. Sigue las instrucciones específicas de cada proyecto (ver la sección "Contenido").
+- **Python**
+- **MySQL**
+- **MySQL Workbench**
 
-## Autor
+Pasos:
 
-* [Nahuel Ghilardi] - [Nahuelito22] - [matiasghilardisalinas@gmail.com]
+1. Clonar el repositorio:
 
-## Licencia
+```bash
+git clone https://github.com/Nahuelito22/Programacion_2-Taller_Mecanico.git
+```
 
-Este proyecto está bajo la licencia [Tipo de Licencia - MIT].
+2. Configurar la conexión a la base de datos en el archivo `.env` (ver `example.env`).
+3. Ejecutar la aplicación:
 
-## Contacto
+```bash
+python app.py
+```
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+#### ⚙️ Tecnologías utilizadas
 
-## Agradecimientos
+- **Python**
+  - Flask
+  - SQLAlchemy
+  - PyMySQL
+  - python-dotenv
+- **MySQL**
+- **Workbench**
+- **Git y GitHub**
 
-Agradezco al profesor [Pietrobon.C] y a mis compañeros de clase por su apoyo durante el curso.
+## 📦 Instrucciones generales de uso
+
+1. Cloná el repositorio:  
+   `git clone https://github.com/Nahuelito22/Programacion_2-Taller_Mecanico.git`
+
+2. Navegá hasta el directorio del proyecto:  
+   `cd Programacion_2-Taller_Mecanico`
+
+3. Seguí las instrucciones específicas de cada carpeta o proyecto dentro del repositorio.
+
+## 👨‍💻 Autor
+
+**Nahuel Ghilardi**  
+GitHub: [@Nahuelito22](https://github.com/Nahuelito22)  
+Email: matiasghilardisalinas@gmail.com
+
+## 📄 Licencia
+
+Este proyecto está licenciado bajo los términos de la licencia MIT.
+
+## 🤝 Agradecimientos
+
+Gracias al profesor **Pietrobon.C** y a todos mis compañeros por su apoyo y colaboración durante el desarrollo del curso.
