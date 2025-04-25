@@ -7,11 +7,6 @@ Este repositorio reúne los proyectos desarrollados durante el curso **Programac
 - 🔧 [Taller Mecánico](https://github.com/Nahuelito22/Programacion_2-Taller_Mecanico)  
   API RESTful para gestionar un taller de vehículos, usando Flask y MySQL.
 
-(En el futuro podés agregar más proyectos si el curso continúa, por ejemplo 👇)
-
-- 📁 [Gestor de Alumnos (POO + Archivos)](link-al-repo)
-- 📈 [Análisis de rendimiento académico (con SQL)](link-al-repo)
-
 ## 📂 Estructura
 
 Cada proyecto está alojado en su propio repositorio independiente, con su respectivo README explicando:
